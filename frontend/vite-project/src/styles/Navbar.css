@@ -1,0 +1,9 @@
+.nav-link {
+  color: white;
+  text-decoration: none;
+  transition: text-decoration 0.3s ease;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
