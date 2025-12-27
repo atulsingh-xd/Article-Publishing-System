@@ -2,7 +2,7 @@
 
 > A robust, role-based Content Management System (CMS) designed for the verification and publication of technical articles.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Stack](https://img.shields.io/badge/stack-MERN-green.svg)
 ![Status](https://img.shields.io/badge/status-Complete-success.svg)
 
