@@ -47,5 +47,5 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/article-publishing-system.git](https://github.com/your-username/article-publishing-system.git)
+git clone [https://github.com/atulsingh-xd/article-publishing-system.git]
 cd article-publishing-system
